@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="350" />
+      <img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="350" height="250"/>
     </td>
     <td align="center">
       <h1>Hi 👋,<br />I'm Chanuka Senevirathne</h1>

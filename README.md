@@ -1,11 +1,14 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Chanuka
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;Always+Learning+🚀" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif" width="350" />
+    </td>
+    <td align="center">
+      <h1>Hi 👋,<br />I'm Chanuka Senevirathne</h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;Always+Learning+🚀" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -22,27 +25,8 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,python,c,mysql,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,figma,nodejs,react,express,nextjs,typescript,tailwindcss,bootstrap,prisma,firebase,mongodb" />
 </p>
-
----
-
-## 📌 Featured Projects  
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧾 Plotline
-Movie review platform.
-
-🔹 Nodejs
-🔹 Express  
-🔹 MongoDB
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -52,6 +36,8 @@ Movie review platform.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaaanuwu&theme=tokyo-night" />
 </p>
+
+---
 
 ## 🤝 Connect With Me  
 

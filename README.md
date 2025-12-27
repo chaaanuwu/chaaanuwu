@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Software+Engineer;Web+Developer;UI%2FUX+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;Always+Learning+🚀" />
 </p>
 
 ---
@@ -33,22 +33,12 @@
 <tr>
 <td width="50%">
 
-### 🧾 Payroll Management System  
-Database-driven payroll system for school administration.
+### 🧾 Plotline
+Movie review platform.
 
-🔹 MySQL  
-🔹 Java  
-🔹 Structured SQL design  
-
-</td>
-<td width="50%">
-
-### 🌱 GreenVibe  
-Interactive web platform promoting eco-friendly practices.
-
-🔹 HTML / CSS / JS  
-🔹 UI-focused design  
-🔹 Educational platform  
+🔹 Nodejs
+🔹 Express  
+🔹 MongoDB
 
 </td>
 </tr>
@@ -60,39 +50,16 @@ Interactive web platform promoting eco-friendly practices.
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaaanuwu&theme=tokyo-night" />
 </p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/chanuka-senevirathne-623606643">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:gkchanuwa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -100,7 +67,7 @@ Interactive web platform promoting eco-friendly practices.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=chaaanuwu&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---

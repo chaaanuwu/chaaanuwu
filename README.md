@@ -17,7 +17,7 @@
 - 🎓 Undergraduate focused on **Software Engineering**
 - 💡 Passionate about **Web Development & UI/UX Design**
 - 🧠 Interested in **APIs, Databases, and System Design**
-- 🌱 Currently learning **Vue.js & Full-Stack Development**
+- 🌱 Currently learning **MERN & Full-Stack Development**
 - 📍 Sri Lanka  
 
 ---
